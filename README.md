@@ -1,4 +1,3 @@
 
-link: https://AsociaLad.github.io/coursera-course-module2-assignment/
-
+link: https://asocialad.github.io/coursera-course-module2-assignment-master/
 Time to complete: 1-2 hours.
